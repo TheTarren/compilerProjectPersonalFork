@@ -1,0 +1,17 @@
+Item  Status        Description
+----  ------        -----------
+ 1)   COMPLETE   Implement symtab functions and append_inst()
+ 2)   COMPLETE  Implement all integer operators, parenthesis to change order-of-operators
+ 3)   COMPLETE Ray, murge to main?   Implement all bitwise operators and relational operators
+ 4)   COMPLETE Ray, murge to main?   Implement string variables
+ 5)   IN PROGRESS   Implement type checking
+ 6)   NOT STARTED   Implement I/O functions
+ 7)   COMPLETE   if statements with/without optional else clauses
+ 8)   NOT STARTED   while and do loops
+ 9)   NOT STARTED   1D int arrays, malloc
+10)   NOT STARTED   main -> distinguish between locals and globals
+11)   NOT STARTED   Arg-free functions, no locals
+12)   NOT STARTED   Arg-free functions, with locals
+13)   NOT STARTED   Functions with locals and args
+14)   NOT STARTED   Recursive functions
+
